@@ -1,0 +1,16 @@
+// export a function for doing addition
+exports.add = function(a, b) {
+	return a + b;
+};
+// export a function for doing addition
+exports.subtract = function(a, b) {
+	return a - b;
+};
+// export a function for doing addition
+exports.multiply = function (a, b) {
+	return a * b
+};
+// export a function for doing addition
+exports.divide = function (a, b) {
+	return a / b
+};
